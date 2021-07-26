@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/API/API.java=UTF-8
+encoding//src/APP/CourseScheduleApp.java=UTF-8
+encoding//src/APP/DutyRosterApp.java=UTF-8
+encoding//src/APP/ProcessScheduleApp.java=UTF-8
+encoding//src/derector/CommonNoBlankIntervalSet.java=UTF-8
+encoding//src/derector/IntervalSetDerector.java=UTF-8
+encoding//src/derector/MultiIntervalSetDecorator.java=UTF-8
+encoding//src/derector/NoOverlapIntervalSet.java=UTF-8
+encoding//src/derector/PeriodicIntervalSet.java=UTF-8
+encoding//src/derector/PeriodicMultiIntervalSet.java=UTF-8
+encoding//src/interval/CommonIntervalSet.java=UTF-8
+encoding//src/interval/CommonMultiIntervalSet.java=UTF-8
+encoding//src/interval/MultiIntervalSet.java=UTF-8
+encoding//test/API/APITest.java=UTF-8
+encoding//test/docorater/PeriodicTest.java=UTF-8
+encoding//test/intervalsTest/CommonMultiTest.java=UTF-8
